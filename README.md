@@ -34,6 +34,6 @@ Currently exploring **LLM inference acceleration and speculative decoding**, wit
 
 ### 📄 Resume
 
-[View my CV](./CV.pdf)
+[View my CV](./Maryam_Amir_CV.pdf)
 
 📫 **Email:** [maryamamir7865@gmail.com](mailto:maryamamir7865@gmail.com)
