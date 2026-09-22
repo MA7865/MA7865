@@ -1,6 +1,6 @@
 # Hi, I'm Maryam Amir 👋
 
-I'm a Computer Science undergraduate (2029) at **NUST SEECS** interested in **AI/ML, Large Language Models, and practical AI systems**.
+I'm a Computer Science undergraduate at **NUST SEECS'29** interested in **AI/ML, Large Language Models, and practical AI systems**.
 
 ### 🔬 Interests
 
