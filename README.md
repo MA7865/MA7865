@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Maryam Amir 👋
 
-<!--
-**MA7865/MA7865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate (2029) at **NUST SEECS** interested in **AI/ML, Large Language Models, and practical AI systems**.
 
-Here are some ideas to get you started:
+### 🔬 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Large Language Models & efficient inference
+* AI systems and chatbots
+* Software Development
+* NLP and product matching
+* Dynamic pricing and intelligent applications
+
+### 🛠️ Technical Skills
+
+**Languages:** Python, Java, C++
+**AI/ML:** LLMs, Transformers, NLP, Machine Learning, Speculative Decoding
+**Frameworks & Tools:** PyTorch, TensorFlow, FastAPI, Flask, FAISS, Apache Kafka, Git/GitHub
+**Databases:** MySQL, SQL, MongoDB
+
+### 📌 Featured Projects
+
+* **NUST FAQ Chatbot** — Offline RAG-based chatbot using FAISS, sentence-transformers and llama.cpp
+* **SlotSync** — Java/JavaFX/MySQL scheduling system
+* **AI Lounge Bot Shield** — AI-powered bot detection application
+* **Dynamic Pricing Agent** — AI/ML pipeline for product matching, demand analysis and dynamic pricing
+
+### 🔬 Research Experience
+
+Currently exploring **LLM inference acceleration and speculative decoding**, with a focus on hierarchical speculative decoding.
+
+### 🏆 Achievement
+
+🥈 **2nd Place — ACM SEECS Local Chatbot Competition 2026**
+
+### 📄 Resume
+
+[View my CV](./CV.pdf)
+
+📫 **Email:** [maryamamir7865@gmail.com](mailto:maryamamir7865@gmail.com)
